@@ -1,0 +1,18 @@
+
+.encabezado{
+background-color: aqua;
+padding: 0.1%;
+display: flex;
+flex-direction: row;
+}
+.ICC{
+    background-color:rgb(129, 119, 167);
+    padding: 1%;
+     width: 10%;
+     margin: 15px;
+}
+
+.img{
+    text-align-last: center;
+    padding: 1%;
+}
