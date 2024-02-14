@@ -68,3 +68,14 @@ flex-direction: row;
     margin:2% 0  0% 0;
     color: rgb(80, 51, 43);
 }
+
+/*Footer*/
+
+.footer{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+    background-color: rgb(94, 50, 50);
+    margin: 100% 0 0 0;
+    color: rgb(255, 240, 192);
+}
