@@ -52,21 +52,22 @@
     }
     
     /*Cuerpo*/ 
-    .cuerpo{
+    .EM{
+        padding: 3%;
+    }
+    .caja{
+        background-color:rgb(94, 50, 50);
+        width: 100%; 
+        padding: 2%;
+        border-radius: 4px;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
     }
-    
-    .logo{
-        text-align: center;
-        margin:2% 0  2% 0;
-    
-    }
-    
+
     .texto{
-        text-align: center;
-        margin:2% 0  0% 0;
-        color: rgb(80, 51, 43);
+        background-color: rgb(255, 240, 192);
+        border-radius: 5px;
+        padding: 1%;
     }
     
     /*Footer*/
@@ -76,6 +77,5 @@
         width: 100%;
         padding: 1%;
         background-color: rgb(94, 50, 50);
-        margin: 100% 0 0 0;
         color: rgb(255, 240, 192);
     }
